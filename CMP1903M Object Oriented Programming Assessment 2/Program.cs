@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
+//NATHAN JONES
+//CMP1903M OBJECT ORIENTED PROGRAMMING ASSESSMENT 2 
+//MARCH 2020
+
 namespace CMP1903M_Object_Oriented_Programming_Assessment_2
 {
     class Program
